@@ -3,7 +3,7 @@
 
 This is the repository for the Computational Text Analysis Workshop at the 2016 Digital Humanities @ Berkeley Summer Institute.
 
-This course introduces students to modern quantitative text analysis techniques, with the ultimate goal of providing the skills necessary to apply the methods in their own research. We will use the open source programming language R. Demonstration corpora are provided.
+This course introduces students to modern quantitative text analysis techniques, with the ultimate goal of providing the skills necessary to apply the methods in their own research. We will use the open source programming language Python. Demonstration corpora are provided.
 
 ##Topics Covered
 
@@ -17,7 +17,7 @@ Quantifying Style: Grammar, Alliteration, and other Poetic Concerns<br />
 
 ##Requirements
 
-This workship will be taught in the open source programming language Python.
+This workship will be taught in the open source programming language Python. Participants should install [anaconda for Python 3.5](https://www.continuum.io/downloads]) on their laptops prior to the first class.
 
 
 
