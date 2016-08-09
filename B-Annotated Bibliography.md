@@ -36,7 +36,7 @@ The Orientalist adoption of the haiku was an important marker of literary presti
 
 [How Quickly Do Literary Standards Change?](https://tedunderwood.com/2015/05/18/how-quickly-do-literary-standards-change/), Ted Underwood, Jordan Sellers
 
- In the study of literary history, there is an open question regarding the extent of the “great divide” between something like an elite versus a mainstream literature. To what extent do these constitute separate modes of cultural production and how might they intervene on one another? Underwood and Sellers tried to answer one version of this question by seeing whether there were differences between books of poetry that were reviewed in prominent literary periodicals versus those that were not. In fact, this turned out to be the case, but even more compelling was a trend over the course of the nineteenth century, in which literature overall – both elite and mainstream –  tended to look more and more like the kinds of books that got reviews earlier in the century. 
+ In the study of literary history, there is an open question regarding the extent of the “great divide” between something like an elite versus a mainstream literature. Underwood and Sellers tried to answer one version of this question by seeing whether there were differences between books of poetry that were reviewed in prominent literary periodicals versus those that were not. In fact, this turned out to be the case, but even more compelling was a trend over the course of the nineteenth century, in which literature overall – both elite and mainstream –  tended to look more and more like the kinds of books that got reviews earlier in the century. 
 
 ### Topic Modeling
 
