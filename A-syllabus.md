@@ -30,45 +30,62 @@ Please download and install [Anaconda for Python 3.5](https://www.continuum.io/d
     * Demonstration of some exciting things you can do with digitized text-as-data
     * Overview of the next five days: What we hope you will get out of this workshop
 
-- **Jump Right In: TextBlob and NLTK**
-    * Introduction to TextBlob/NLTK
+- **Jump Right In: Natural Language Processing**
+    * Introduction to NLTK
     * Text processing
     * Counting words
     * Counting tagged words
 
 ####Day 2
 ####Take a Step Back: Working with Texts in Python
+
+####Morning
 - **Python Basics**
-    * Variables
-    * Lists
+    * Variables & Arithmetic Operations
+    * Data Types: Strings, Numbers, Lists
 - **Working with Texts**
-    * What is a string? (compare to floats and integers)
-    * Text formats: strings, lists, and dataframes 		
+    * Functions, Methods, Handy Tricks
+
+####Afternoon
 - **Dataframes**
-    * The Pandas dataframe	
+    * Data Type: Pandas DataFrame
+    * Operations: Data Selection, Transformation, Visualization
+- **Applied**
     * Metadata
-    * Subsetting and splicing dataframes using metadata
-- **Dictionary Methods and Comparing Texts (may move this to Day 3 if needed)**
-    * What are dictionary methods?
-    * Dictionary analysis using LIWC
-    * Demonstration with several applications
+    * Measuring literary character
 
-####Day 3	
+####Day 3
+####Morning
+- **Document-Term Matrix**
+    * Package: scikit-learn
+    * Operations: Reading corpus text files from hard drive, Transform to DTM format
 - **Discriminating Words**
-    * Methods for finding discriminating words
-    * Demonstration on 2 categories
-    * Demonstration on >2 categories
-- **Time Permitting: Ad Hoc Stylometry: Authorship & Poetic Style**
+    * Methods: tf-idf, difference of proportions
+    * Discussion: Word Scores
 
-####Day 4	
-- **Text Similarity and Classification using scikit-learn**
-    * Texts as Geometry
-      * Distance Measures: cosine, euclidean
-    * Unsupervised Methods: hierarchical, KMeans 
-    * Supervised Machine Learning: Logistic Regression
+####Afternoon
+- **Sandbox**
+
+####Day 4
+####Morning
+- **Dictionary Methods and Comparing Texts**
+    * Intro to Dictionary Methods
+       * Standard, Personlized Dictionaries
+    * Dictionary Analysis using LIWC
+    * Application: Sentiment Analysis on Music Reviews
+
+####Afternoon
+- **Text Classification**
+    * Machine Learning
+       * Supervised vs. Unsupervised Learning
+       * Families of Algorithms
+    * Supervised: Naive Bayes Classification
+       * Literary History at the Century-Scale
+       * Most Informative Features
 
 ####Day 5
+####Morning
 - **Topic Modeling**
-    * What are topic models?
-    * Python demonstration (or MALLET demonstration?)
-    * Topic Analysis / Visualization
+    * Topic Modeling Algorithm (LDA)
+    * Package: gensim
+    * Topic Model Analysis: Metadata, Visualization
