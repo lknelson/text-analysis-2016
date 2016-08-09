@@ -9,23 +9,17 @@ Scholars across multiple disciplines are finding themselves face-to-face with ma
 
 ##Topics Covered
 
-- **Text Classification**
-- - **Text Classification**
-- - **Text Classification**
-- - **Text Classification**
-- - **Text Classification**
-- - **Text Classification**
-- - **Text Classification**
--Principles of Natural Language Processing
--Introduction to Python for NLP
--Discriminating Words
--Dictionary Methods & Sentiment Analysis
--Textual Classification
--Topic Modeling
+- **Principles of Natural Language Processing**
+- **Introduction to Python for NLP**
+- **Discriminating Words**
+- **Dictionary Methods & Sentiment Analysis**
+- **Textual Classification**
+- **Topic Modeling**
 
 ##Requirements
 
 This workship will be taught in the open source programming language Python. Participants should install [anaconda for Python 3.5](https://www.continuum.io/downloads]) on their laptops prior to the first class.
 
-
-
+##Suggested Reading
+1. Ted Underwood. [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
+2. H. Andrew Schwartz and Lyle H. Ungar (2015). [Data-Driven Content Analysis of Social Media: A Systematic Overview of Automated Methods](http://wwbp.org/papers/dataDriven2015.pdf)
