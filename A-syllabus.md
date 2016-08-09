@@ -1,6 +1,6 @@
 ##Digital Humanities at Berkeley Summer Institute
-##15-19 August 2016
-##Computational Text Analysis Course
+###15-19 August 2016
+###Computational Text Analysis Course
 
 ###Instructors: Laura Nelson and Teddy Roland	
 
