@@ -1,7 +1,5 @@
-##Digital Humanities at Berkeley Summer Institute
+##DHBSI 2016: Computational Text Analysis
 ###15-19 August 2016
-###Computational Text Analysis Course
-
 ###Instructors: Laura Nelson and Teddy Roland	
 
 ##Overview
