@@ -23,7 +23,7 @@ Please download and install [Anaconda for Python 3.5](https://www.continuum.io/d
 
 ##Tentative Schedule
 
-####Day 1
+##Day 1
 
 - **Overview of text analysis methods, or why use computers to analyze text?**
     * How do we analyze text?
@@ -36,7 +36,8 @@ Please download and install [Anaconda for Python 3.5](https://www.continuum.io/d
     * Counting words
     * Counting tagged words
 
-####Day 2
+
+##Day 2
 ####Take a Step Back: Working with Texts in Python
 
 ####Morning
@@ -54,7 +55,8 @@ Please download and install [Anaconda for Python 3.5](https://www.continuum.io/d
     * Metadata
     * Measuring literary character
 
-####Day 3
+
+##Day 3
 ####Morning
 - **Document-Term Matrix**
     * Package: scikit-learn
@@ -66,7 +68,8 @@ Please download and install [Anaconda for Python 3.5](https://www.continuum.io/d
 ####Afternoon
 - **Sandbox**
 
-####Day 4
+
+##Day 4
 ####Morning
 - **Dictionary Methods and Comparing Texts**
     * Intro to Dictionary Methods
@@ -83,9 +86,13 @@ Please download and install [Anaconda for Python 3.5](https://www.continuum.io/d
        * Literary History at the Century-Scale
        * Most Informative Features
 
-####Day 5
+
+##Day 5
 ####Morning
 - **Topic Modeling**
     * Topic Modeling Algorithm (LDA)
     * Package: gensim
     * Topic Model Analysis: Metadata, Visualization
+
+####Afternoon
+- **Sandbox**
