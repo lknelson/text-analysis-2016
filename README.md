@@ -16,7 +16,7 @@ Scholars across multiple disciplines are finding themselves face-to-face with ma
 
 ##Requirements
 
-This workship will be taught in the open source programming language Python. Participants should install [anaconda for Python 3.5](https://www.continuum.io/downloads]) on their laptops prior to the first class.
+This workship will be taught in the open source programming language Python. Participants should install [Anaconda for Python 3.5](https://www.continuum.io/downloads]) on their laptops prior to the first class.
 
 ##Suggested Reading
 1. Ted Underwood. [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
