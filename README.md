@@ -10,7 +10,7 @@ Scholars across multiple disciplines are finding themselves face-to-face with ma
 - **Principles of Natural Language Processing**
 - **Introduction to Python for NLP**
 - **Discriminating Words**
-- **Dictionary Methods & Sentiment Analysis**
+- **Dictionary Methods**
 - **Textual Classification**
 - **Topic Modeling**
 
