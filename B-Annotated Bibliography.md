@@ -2,6 +2,8 @@
 
 [Operationalizing](https://litlab.stanford.edu/LiteraryLabPamphlet6.pdf), Franco Moretti
 
+Whether and how to use computational methods toward humanistic, interpretive problems is not immediately obvious. After all, many of our most closely held problems seem native to close reading. In this article, Moretti lays out a framework for re-thinking literary theoretical concepts in terms of measurment. He then uses this to explore several previous theorizations of literary "character," offering a different measurement for each -- and leveraging his findings against Hegel!
+
 
 ### Discriminating Words
 
@@ -30,7 +32,11 @@ Drawing inspiration from Kurt Vonnegut's theory of narrative, this is the first 
 
 [Literary Pattern Recognition](https://lucian.uchicago.edu/blogs/literarynetworks/files/2015/12/LONG_SO_CI.pdf), Hoyt Long, Richard So
 
+The Orientalist adoption of the haiku was an important marker of literary prestige in American Modernist poetry. By training a computer to recognize haiku vs non-haiku poetry, Long and So trace the genre's dissemination across the literary field over the course of a decade. In particular, they focus on instances when the computer "mistakes" non-haiku for haiku as a strategy for finding underlying patterns.
+
 [How Quickly Do Literary Standards Change?](https://tedunderwood.com/2015/05/18/how-quickly-do-literary-standards-change/), Ted Underwood, Jordan Sellers
+
+ In the study of literary history, there is an open question regarding the extent of the “great divide” between something like an elite versus a mainstream literature. To what extent do these constitute separate modes of cultural production and how might they intervene on one another? Underwood and Sellers tried to answer one version of this question by seeing whether there were differences between books of poetry that were reviewed in prominent literary periodicals versus those that were not. In fact, this turned out to be the case, but even more compelling was a trend over the course of the nineteenth century, in which literature overall – both elite and mainstream –  tended to look more and more like the kinds of books that got reviews earlier in the century. 
 
 ### Topic Modeling
 
