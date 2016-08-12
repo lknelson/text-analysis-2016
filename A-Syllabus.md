@@ -85,6 +85,7 @@ Please download and install [Anaconda for Python 3.5](https://www.continuum.io/d
     * Supervised: Naive Bayes Classification
        * Literary History at the Century-Scale
        * Most Informative Features
+- **Sandbox**
 
 
 ##Day 5
@@ -93,6 +94,7 @@ Please download and install [Anaconda for Python 3.5](https://www.continuum.io/d
     * Topic Modeling Algorithm (LDA)
     * Package: gensim
     * Topic Model Analysis: Metadata, Visualization
+- **Wrap-Up**
 
 ####Afternoon
-- **Sandbox**
+- **Lightening Talks**
