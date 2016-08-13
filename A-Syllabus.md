@@ -60,9 +60,9 @@ Please download and install [Anaconda for Python 3.5](https://www.continuum.io/d
 ####Morning
 - **Document-Term Matrix**
     * Package: scikit-learn
-    * Operations: Reading corpus text files from hard drive, Transform to DTM format
+    * Operations: Reading .csv file from hard drive, Transform to DTM format
 - **Discriminating Words**
-    * Methods: tf-idf, difference of proportions
+    * Methods: tf-idf
     * Discussion: Word Scores
 
 ####Afternoon
