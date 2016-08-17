@@ -69,3 +69,9 @@ Liu observes that, as of writing in 2011, digital humanistic inquiry had largely
 [Designing for Difference](http://differences.dukejournals.org/content/25/1/177.abstract), Tara McPherson
 
 McPherson takes seriously the charge that computational methods and critical theory may be incommensurable. In particular, she observes the practical difficulty of simultaneously building workflows in code -- the bread and butter of the digital humanities -- while activating the insights of code studies -- a subset of new media critique. McPherson sees a resolution to this impasse by building tools from the ground up that reflect feminist commitments, including ontological challenges to database hierarchy and democratizing spaces of reader interaction with texts.
+
+### Sample Corpora
+
+[Demonstration Corpora](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244469/Data%20Collections%20and%20Datasets#demo-corpora), Alan Liu
+
+From the website: "Demo corpora are sample or toy collections of texts that are ready-to-go for demonstration purposes or hands-on tutorials--e.g., for teaching text analysis, topic modeling, etc.  Ideal collections for this purpose are public domain or open access, plain-text, relatively modest in number of files, organized neatly in a folder(s), and downloadable as a zip file. (Contributions welcome: if you have demo collections you have created, please email ayliu@english.ucsb.edu.)"
