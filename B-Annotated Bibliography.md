@@ -54,6 +54,10 @@ The explicit objective of LDA is to identify words that cluster together in some
 
 Buurma has framed topic modeling as a tool that can productively defamiliarize a text and uses this to explore novelistic genre. Taking Anthony Trollope's six Barsetshire novels as her object of study, Buurma suggests that we should read the series not as a formal totality – as we might do for a novel with a single, omniscient narrator – but in terms of its partial and uneven nature. The prominence of particular topics across disparate chapters offer alternate traversals through the books and across the series.
 
+[Topic Modeling Made Just Simple Enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/), Ted Underwood
+
+Abstract: "Right now, humanists often have to take topic modeling on faith. There are several good posts out there that introduce the principle of the thing (by Matt Jockers, for instance, and Scott Weingart). But it’s a long step up from those posts to the computer-science articles that explain “Latent Dirichlet Allocation” mathematically. My goal in this post is to provide a bridge between those two levels of difficulty."
+
 ### Stylistics
 
 "The Poet Alone." <i>Becoming a Poet in Anglo-Saxon England</i>. Cambridge University Press: New York. 2014. Emily Thornbury.
